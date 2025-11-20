@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karl Emil Jøker
+# Karl Emil Jøker
 
 I'm an **Autonomous Systems Engineer** with a background in **deep learning**, **scientific computing**, and **medical AI**.  
 I currently work on developing AI-driven image analysis tools for Female Genital Schistosomiasis (FGS) at the *Centre for Clinical Research, North Denmark Regional Hospital*.
@@ -7,7 +7,7 @@ My work blends engineering, healthcare, and research, with a strong focus on bui
 
 ---
 
-### 🧩 Tech Stack & Tools
+### Tech Stack & Tools
 **Languages:** Python · C++ · MATLAB · Bash · SQL  
 **Machine Learning:** PyTorch · OpenCV · scikit-learn · Weights & Biases · TensorBoard  
 **Computing:** CUDA · NumPy · SciPy · Pandas · Linux (Ubuntu)  
@@ -16,7 +16,7 @@ My work blends engineering, healthcare, and research, with a strong focus on bui
 
 ---
 
-### 🏥 Areas of Focus  
+### Areas of Focus  
 - Health Sensing & Physiological Monitoring  
 - Deep Learning for Clinical & Biological Data  
 - Image Segmentation & Quantification  
@@ -26,7 +26,7 @@ My work blends engineering, healthcare, and research, with a strong focus on bui
 
 ---
 
-### 🎓 Background  
+### Background  
 **MSc in Autonomous Systems** — Technical University of Denmark (DTU)  
 **BSc in Robotics** — Aalborg University  
 
