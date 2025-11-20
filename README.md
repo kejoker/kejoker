@@ -30,10 +30,10 @@ My work blends engineering, healthcare, and research, with a strong focus on bui
 **MSc in Autonomous Systems** — Technical University of Denmark (DTU)  
 **BSc in Robotics** — Aalborg University  
 
-📄 **Speaker** — British Society for Parasitology Symposium (2024)  
-🧠 **Lead Author** — Deep learning–based clinical imaging paper (under review, 2025)
+**Speaker** — British Society for Parasitology Symposium (2024)  
+**Lead Author** — Deep learning–based clinical imaging paper (under review, 2025)
 
 ---
 
-📫 [karljoker29@gmail.com](mailto:karljoker29@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/karl-emil-jøker-5709a4161)
+[karljoker29@gmail.com](mailto:karljoker29@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/karl-emil-jøker-5709a4161)
